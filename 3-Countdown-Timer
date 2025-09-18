@@ -1,0 +1,14 @@
+import time
+
+# user input for countdown start
+start = int(input("Enter the number to start the countdown from: "))
+
+# Countdown using a while loop
+print("\n--- Countdown Begins ---")
+while start > 0:
+  print(start)
+  time.sleep(1)
+  start -= 1
+
+# Print final message
+print("Countdown Complete!")
