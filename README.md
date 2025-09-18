@@ -7,7 +7,7 @@ This repository contains a variety of small Python programs I built while learni
 
 ## Projects Included
 
-### 1️. [Welcome Message Generator](1-Welcome-Message-Generator)
+### 1️. [Welcome Message Generator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/1-welcome-message-generator.py)
 - **Description**: Takes user input (name, hobby, age, color) and prints a personalized welcome message.  
 - **Concepts Used**: Variables, Data Types, f-strings, Input/Output  
 
