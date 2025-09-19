@@ -7,14 +7,19 @@ This repository contains a variety of small Python programs I built while learni
 
 ## Projects Included
 
-### 1️. [Welcome Message Generator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/1-Welcome-Message-Generator.py)
-- **Description**: Takes user input (name, hobby, age, color) and prints a personalized welcome message.  
-- **Concepts Used**: Variables, Data Types, f-strings, Input/Output
+### 01. [Welcome Message Generator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/01-Welcome-Message-Generator.py)
+### 02. [Calculator And Number Comparision Tool] (https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/02-calculator-and-number-comparision-tool.py)
+### 03. [Countdowm Timer](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/03-Countdown-Timer)
+### 04. [Math Quiz Game](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/04-Math-Quiz-Game)
+### 05. [Shopping List App](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/05-Shopping-List-App)
+### 06. [Contact book](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/06-Contact-book)
+### 07. [Ingredients Checker](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/07-Ingredients-Checker)
+### 08. [Note Taking App](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/08-Note-Taking-App)
+### 09. [Safe Calculator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/09-Safe-Calculator)
+### 10. [Temperature Converter](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/10-Temperature-Converter)
+### 11. [Student Grade Manager](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/11-Student-Grade-Manager)
+### 12. [Randam Password Generator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/12-Randam-Password-Generator)
+### 13. [Recipe Viewer App](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/13-Recipe-Viewer-App)
+### 14. [Daily Journal Logger](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/14-Daily-Journal-Logger)
+### 15. [Snake Water Gun](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/15-Snake-Water-Gun)
 
-### 3. [Countdowm Timer](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/3-Countdown-Timer)
-- **Description**:  A simple program that counts down from user-specified seconds
-- **Concepts Used**: Loops, Conditionals, time.sleep()
-
-  ### 4. [Math Quiz Game](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/4-Math-Quiz-Game)
-- **Description**: A Python quiz game that generates random math problems and keeps score.  
-- **Concepts Used**: Loops, Conditionals, Random Numbers, Input/Output
