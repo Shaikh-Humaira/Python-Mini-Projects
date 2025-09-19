@@ -9,7 +9,7 @@ This repository contains a variety of small Python programs I built while learni
 
 ### 01. [Welcome Message Generator](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/01-Welcome-Message-Generator.py)
 ### 02. [Calculator And Number Comparision Tool](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/02-calculator-and-number-comparision-tool.py)
-### 03. [Countdowm Timer](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/03-Countdown-Timer)
+### 03. [Countdown Timer](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/03-Countdown-Timer)
 ### 04. [Math Quiz Game](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/04-Math-Quiz-Game)
 ### 05. [Shopping List App](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/05-Shopping-List-App)
 ### 06. [Contact book](https://github.com/Shaikh-Humaira/Python-Mini-Projects/blob/main/06-Contact-book)
